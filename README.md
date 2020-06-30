@@ -1,3 +1,7 @@
+
+项目是使用Paddlepaddle框架和PARL库实现的。
+
+
 DDPG版本（wudigushi）：
 	在158行main函数有个train的参数，train=True则训练，Train=False则评价。
 	在136行和137行中分别设置训练好的模型和数据的路径
