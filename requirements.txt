@@ -1,5 +1,5 @@
 gym
-paddlepaddle==1.6.3
+paddlepaddle==2.4.0
 parl==1.3.1
 numpy==1.16.1
 Pillow==7.1.2
